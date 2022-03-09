@@ -11,4 +11,4 @@ which wine’s quality is dependent.
 ## [Data Set Link](https://drive.google.com/file/d/1QFEIiYBAwvSIy6hVPXTeI0DYULD83Yqp/view)
 
 
-## [Project](https://github.com/Code-With-Aagam/Data-Science-Minor-October/blob/main/Data%20Science%20Minor%20October.ipynb)
+## [link](https://github.com/Code-With-Aagam/Data-Science-Minor-October/blob/main/Data%20Science%20Minor%20October.ipynb)
